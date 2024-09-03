@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bruna Oliveira.</h1>
-<h3 align="center">Web and mobile developer, also passionate about learning.</h3>
+<h3 align="center">Front-end developer, also passionate about learning.</h3>
 
 - Contact me in: **brunabzoliv@gmail.com**
 
@@ -15,7 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveirabz&show_icons=true&theme=dark&locale=en" alt="oliveirabz" /></p>
 
- 
-  ![Snake animation](https://github.com/oliveirabz/oliveirabz/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/oliveirabz/oliveirabz/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
