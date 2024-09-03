@@ -15,6 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveirabz&show_icons=true&theme=dark&locale=en" alt="oliveirabz" /></p>
 
- ![snake gif](https://github.com/oliveirabz/oliveirabz/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
  
 </div>
